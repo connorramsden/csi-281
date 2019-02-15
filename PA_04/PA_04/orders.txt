@@ -1,0 +1,11 @@
+2
+3
+2 dingo_nuggets bonbons 5
+4 Whobber Whobber Whobber dr_pebber 250
+3 bonbons pebsi double_Whobber_with_bees 400
+5
+2 Whobber dingo_nuggets 20
+5 double_Whobber_with_bees double_Whobber_with_bees double_Whobber_with_bees pebsi dr_pebber 5
+3 Whobber dingo_nuggets dr_pebber 100
+6 Whobber Whobber double_Whobber_with_bees dingo_nuggets bonbons pebsi 203
+1 Whobber 4

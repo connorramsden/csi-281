@@ -1,0 +1,36 @@
+3
+4
+7
+ADD Boy_Pablo Dance_Baby
+ADD Chance_the_Rapper No_Problem
+ADD Chance_the_Rapper Angels
+LIST Chance_the_Rapper
+DELETE Chance_the_Rapper No_Problem
+ADD Kyle iSpy
+LIST Kyle
+6
+10
+ADD Childish_Gambino Retro
+ADD Childish_Gambino Feels_Like_Summer
+ADD Kid_Cudi By_Design
+LIST Childish_Gambino
+DELETE Kid_Cudi By_Design
+ADD Mahalia I_Wish_I_Missed_My_Ex
+ADD Tyler_the_Creator Who_Dat_Boy
+LIST Mahalia
+DELETE Childish_Gambino Feels_Like_Summer
+ADD Vince_Staples Norf_Norf
+7
+12
+ADD Vulfpeck Animal_Spirits
+ADD The_Wrecks Panic_Vertigo
+ADD The_Wrecks Way_With_Words
+LIST The_Wrecks
+DELETE Vulfpeck Animal_Spirits
+ADD Beach_Bunny Prom_Queen
+ADD Beach_Bunny Sports
+ADD Beach_Bunny Six_Weeks
+LIST Beach_Bunny
+DELETE Beach_Bunny Sports
+LIST Beach_Bunny
+ADD Hunny Parking_Lot
