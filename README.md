@@ -1,4 +1,4 @@
-# CSI-281, a Connor Ramsden project
+# CSI-281, Data Structres & Algorithms
 
 Repository for Connor Ramsden's CSI-281 projects
 
