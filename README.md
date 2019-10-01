@@ -2,4 +2,16 @@
 
 Repository for Connor Ramsden's CSI-281 projects
 
-Please don't uhh, cheat? This is fine as a reference but don't copy my code.
+CSI-281, or Data Structures & Algorithms, taught at Champlain College by Lisa Soros
+All work is my own. 
+
+Data Structures Explored:
+- Doubly-Linked Lists
+- Hash Tables / Maps
+- Binary Trees
+  - Binary Search Trees
+  - Red/Black Trees
+- Huffman Encoding
+- Djikstra's Algorithm (less-so)
+- NPHard Problems
+- Knapsack Problem
